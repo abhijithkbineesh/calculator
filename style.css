@@ -1,0 +1,30 @@
+.akb{
+    color: red;
+    text-align: center;
+}
+#num1{
+    color: black;
+    text-align: center;
+}
+#num2{
+    color: chartreuse
+    text-align: center;
+}
+#result{
+    color: brown;
+    text-align: center;
+}
+.gx{
+    color: red
+    border: solid 5px;
+    width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.row1{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
